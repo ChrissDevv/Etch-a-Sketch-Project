@@ -9,12 +9,12 @@
     display:flex;
     flex-wrap: wrap;
     width: 960px;
-    height: 1020px;
+    
     
     
 }
-div{
-    padding-left:58px;
+ #container div{
+    
     display: flex;
     flex-wrap: wrap;
     width: 60px;
